@@ -4,7 +4,7 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 23:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 23:50:43 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Webs que se construyen solas.]]></title>
@@ -12,6 +12,13 @@
             <link>http://vfx.rocks/webs-que-se-construyen-solas/index.html</link>
             <guid isPermaLink="false">68fb138d-39bf-4830-a740-f2a0f12c3e83</guid>
             <pubDate>Sun, 24 Apr 2016 23:38:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shirobako Ema Dance (ep 16)]]></title>
+            <description><![CDATA[<article><h1>Shirobako Ema Dance (ep 16)</h1><p>Estirarmientos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b71cfb8d8a4650e4b3fcfb32dac213947b152c72.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=55C0Dc6k7Ts</link>
+            <guid isPermaLink="false">d25c9294-7556-4ae3-9cce-a875480644fa</guid>
+            <pubDate>Sun, 24 Apr 2016 23:50:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
