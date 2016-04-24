@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Hace poco más de un año se anunció The Grid, una inteligencia artificial capaz de construir sitios web, una inteligencia artificial que prometía dejar atrás el trabajo que implica tener que desarrollar y diseñar desde cero nuevas paginas de internet... Sin pensarlo mucho me inscribí como Founding Member para poder probar esta nueva herramienta tan pronto estuviera lista. Finalmente, hace un par de meses llego mi invitación a probar la versión beta.'
-datePublished: '2016-04-24T22:04:13.678Z'
-dateModified: '2016-04-24T22:03:59.580Z'
+datePublished: '2016-04-24T23:25:03.916Z'
+dateModified: '2016-04-24T23:25:02.268Z'
 title: Webs que se construyen solas.
 author: []
+sourcePath: _posts/2016-04-24-webs-que-se-construyen-solas.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-24-webs-que-se-construyen-solas.md
-published: true
-starred: false
+starred: true
 url: webs-que-se-construyen-solas/index.html
 _type: Article
 
