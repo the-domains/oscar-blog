@@ -1,0 +1,28 @@
+name: Oscar Blog
+favicon: null
+layout_spectrum: 0.361885451246053
+typography_spectrum: 0.711420901119709
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8312792140059173
+  lightness: 0.963352789869532
+  saturation: 0.40014078468084335
+  rhythmicContrast: 0.6310415880288929
+purpose: []
