@@ -1,4 +1,4 @@
-name: Oscar F Log
+name: Oscar FR Log
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.19896
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#b7c6d9'
+    - '#091a2e'
+    - '#536887'
+    - '#77fdfd'
   brandStrength: 0.75
   lightness: 1
   saturation: 0.5
