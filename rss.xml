@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[vfx, animación, comics, web]]></title>
-        <description><![CDATA[vfx, animación, comics, web]]></description>
+        <title><![CDATA[Oscar FR Log]]></title>
+        <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 00:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 03:55:25 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Webs que se construyen solas.]]></title>
@@ -12,6 +12,13 @@
             <link>http://vfx.rocks/webs-que-se-construyen-solas/index.html</link>
             <guid isPermaLink="false">68fb138d-39bf-4830-a740-f2a0f12c3e83</guid>
             <pubDate>Mon, 25 Apr 2016 00:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enjoyable music! ]]></title>
+            <description><![CDATA[<article><h1>Enjoyable music! </h1><p>enjoyable music ♫ . talk to me : jeffkaaale@gmail.com . 1998</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3137c69ad9e6f436e57ebdfdaa52190d238dad82.jpg"></article>]]></description>
+            <link>https://soundcloud.com/jeff-kaale</link>
+            <guid isPermaLink="false">cb407816-fd2b-46e4-8630-735efdac0418</guid>
+            <pubDate>Wed, 18 May 2016 03:55:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shirobako Ema Dance (ep 16)]]></title>
