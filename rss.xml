@@ -4,7 +4,7 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 03:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 04:52:51 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Webs que se construyen solas.]]></title>
@@ -12,6 +12,13 @@
             <link>http://vfx.rocks/webs-que-se-construyen-solas/index.html</link>
             <guid isPermaLink="false">68fb138d-39bf-4830-a740-f2a0f12c3e83</guid>
             <pubDate>Mon, 25 Apr 2016 00:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>TL;DR: vfx, video, animation, web & comics. </p></article>]]></description>
+            <link>http://vfx.rocks/about/index.html</link>
+            <guid isPermaLink="false">38395fdb-723b-491a-9c99-d37b70e6c09c</guid>
+            <pubDate>Wed, 18 May 2016 04:52:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Enjoyable music! ]]></title>
