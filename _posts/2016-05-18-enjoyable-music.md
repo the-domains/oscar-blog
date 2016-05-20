@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/jeff-kaale'
 inLanguage: null
 keywords: []
 description: 'enjoyable music ♫ . talk to me : jeffkaaale@gmail.com . 1998'
-datePublished: '2016-05-18T03:55:24.624Z'
-dateModified: '2016-05-18T03:54:55.263Z'
+datePublished: '2016-05-20T20:34:19.643Z'
+dateModified: '2016-05-20T20:34:19.287Z'
 author:
   - name: X I X X
     url: 'http://soundcloud.com/jeff-kaale'
@@ -51,6 +51,7 @@ app_links:
     namespace: google
     type: ios
 title: 'Enjoyable music! '
+sourcePath: _posts/2016-05-18-enjoyable-music.md
 authors: []
 publisher:
   name: SoundCloud
@@ -58,7 +59,6 @@ publisher:
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 starred: false
-sourcePath: _posts/2016-05-18-enjoyable-music.md
 _type: AudioObject
 _context: 'http://schema.org'
 
