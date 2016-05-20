@@ -4,8 +4,15 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 20:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 20:34:57 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shirobako Ema Dance (ep 16)]]></title>
+            <description><![CDATA[<article><h1>Shirobako Ema Dance (ep 16)</h1><p>Estirarmientos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b71cfb8d8a4650e4b3fcfb32dac213947b152c72.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=55C0Dc6k7Ts</link>
+            <guid isPermaLink="false">d25c9294-7556-4ae3-9cce-a875480644fa</guid>
+            <pubDate>Fri, 20 May 2016 20:34:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Enjoyable music! ]]></title>
             <description><![CDATA[<article><h1>Enjoyable music! </h1><p>enjoyable music ♫ . talk to me : jeffkaaale@gmail.com . 1998</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3137c69ad9e6f436e57ebdfdaa52190d238dad82.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://vfx.rocks/about/index.html</link>
             <guid isPermaLink="false">38395fdb-723b-491a-9c99-d37b70e6c09c</guid>
             <pubDate>Fri, 20 May 2016 20:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shirobako Ema Dance (ep 16)]]></title>
-            <description><![CDATA[<article><h1>Shirobako Ema Dance (ep 16)</h1><p>Estirarmientos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b71cfb8d8a4650e4b3fcfb32dac213947b152c72.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=55C0Dc6k7Ts</link>
-            <guid isPermaLink="false">d25c9294-7556-4ae3-9cce-a875480644fa</guid>
-            <pubDate>Sun, 24 Apr 2016 23:50:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
