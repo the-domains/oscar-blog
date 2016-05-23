@@ -1,16 +1,22 @@
 ---
-dateModified: '2016-05-23T02:43:47.164Z'
-description: "Here's how some of the greatest rappers make rhymes Special thanks to the research of Martin Connor who was interviewed in this piece. More of his rap analysis can be found here: http://www.rapanalysis.com/ SPOTIFY PLAYLIST: https://open.spotify.com/user/estellecaswell/playlist/5KpHR1UysAms2zssDHeSbZ Subscribe to our channel!"
 inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/QWveXdj6oZU'
+inLanguage: null
+keywords: []
+description: "Here's how some of the greatest rappers make rhymes Special thanks to the research of Martin Connor who was interviewed in this piece. More of his rap analysis can be found here: http://www.rapanalysis.com/ SPOTIFY PLAYLIST: https://open.spotify.com/user/estellecaswell/playlist/5KpHR1UysAms2zssDHeSbZ Subscribe to our channel!"
+datePublished: '2016-05-23T02:52:35.538Z'
+dateModified: '2016-05-23T02:48:02.276Z'
 title: 'Rapping, deconstructed: The best rhymers of all time'
 author:
   - name: Vox
     url: 'https://www.youtube.com/user/voxdotcom'
     avatar: {}
-datePublished: '2016-05-23T02:47:53.331Z'
-isBasedOnUrl: 'https://youtu.be/QWveXdj6oZU'
-starred: false
 sourcePath: _posts/2016-05-23-rapping-deconstructed-the-best-rhymers-of-all-time.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
