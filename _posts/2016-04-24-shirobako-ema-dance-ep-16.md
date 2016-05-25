@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=55C0Dc6k7Ts'
 inLanguage: en
 keywords:
   - shirobako
@@ -16,8 +15,8 @@ keywords:
   - ost
   - martinez
 description: Estirarmientos
-datePublished: '2016-05-20T20:34:23.929Z'
-dateModified: '2016-05-20T20:34:23.623Z'
+datePublished: '2016-05-25T03:05:24.676Z'
+dateModified: '2016-05-25T02:57:17.060Z'
 author:
   - name: sasukeskapa
     url: 'https://www.youtube.com/user/sasukeskapa'
@@ -69,6 +68,7 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
+url: shirobako-ema-dance-ep-16/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
