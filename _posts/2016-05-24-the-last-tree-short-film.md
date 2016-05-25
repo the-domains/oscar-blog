@@ -1,16 +1,22 @@
 ---
-dateModified: '2016-05-24T22:08:31.504Z'
-description: 'https://vimeo.com/167766159'
 inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: 'https://vimeo.com/167766159'
+datePublished: '2016-05-25T03:05:50.647Z'
+dateModified: '2016-05-25T02:57:53.371Z'
 title: The Last Tree (Short Film)
 author:
   - name: Glow Production
     url: 'http://vimeo.com/user16028397'
     avatar: {}
-datePublished: '2016-05-24T22:10:37.467Z'
-isBasedOnUrl: 'https://vimeo.com/167766159'
-starred: false
 sourcePath: _posts/2016-05-24-the-last-tree-short-film.md
+authors: []
+publisher: null
+starred: false
+url: the-last-tree-short-film/index.html
 _context: 'http://schema.org'
 _type: Article
 
