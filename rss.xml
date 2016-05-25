@@ -4,8 +4,15 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 04:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 04:59:59 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>TL;DR:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d1fe2cb-51dd-40fb-a669-b8012d6c4155.jpg"></article>]]></description>
+            <link>http://vfx.rocks/about/index.html</link>
+            <guid isPermaLink="false">dc5593b3-5476-494e-b04d-1523f0611559</guid>
+            <pubDate>Wed, 25 May 2016 04:59:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Last Tree (Short Film)]]></title>
             <description><![CDATA[<article><h1>The Last Tree (Short Film)</h1><p>https://vimeo.com/167766159</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e994b1e3506573aa0dfd2c18c72185468f22afd6.jpg"></article>]]></description>
