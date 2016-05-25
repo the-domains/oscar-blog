@@ -4,8 +4,22 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 03:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 03:06:04 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Last Tree (Short Film)]]></title>
+            <description><![CDATA[<article><h1>The Last Tree (Short Film)</h1><p>https://vimeo.com/167766159</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e994b1e3506573aa0dfd2c18c72185468f22afd6.jpg"></article>]]></description>
+            <link>http://vfx.rocks/the-last-tree-short-film/index.html</link>
+            <guid isPermaLink="false">7af160a7-4107-4aee-a588-8bdfa86f03b1</guid>
+            <pubDate>Wed, 25 May 2016 03:05:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rapping, deconstructed: The best rhymers of all time]]></title>
+            <description><![CDATA[<article><h1>Rapping, deconstructed: The best rhymers of all time</h1><p>Here's how some of the greatest rappers make rhymes Special thanks to the research of Martin Connor who was interviewed in this piece. More of his rap analysis can be found here: http://www.rapanalysis.com/ SPOTIFY PLAYLIST: https://open.spotify.com/user/estellecaswell/playlist/5KpHR1UysAms2zssDHeSbZ Subscribe to our channel!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce267d0cad85127d5586a1e889789d1fda7ee1ea.jpg"></article>]]></description>
+            <link>http://vfx.rocks/rapping-deconstructed-the-best-rhymers-of-all-time/index.html</link>
+            <guid isPermaLink="false">96567db9-d7b6-4cf7-8512-d50f3e358367</guid>
+            <pubDate>Wed, 25 May 2016 03:05:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Webs que se construyen solas.]]></title>
             <description><![CDATA[<article><h1>Webs que se construyen solas.</h1><p>Hace poco más de un año se anunció The Grid, una inteligencia artificial capaz de construir sitios web, una inteligencia artificial que prometía dejar atrás el trabajo que implica tener que desarrollar y diseñar desde cero nuevas paginas de internet... Sin pensarlo mucho me inscribí como Founding Member para poder probar esta nueva herramienta tan pronto estuviera lista. Finalmente, hace un par de meses llego mi invitación a probar la versión beta.</p></article>]]></description>
@@ -26,20 +40,6 @@
             <link>http://vfx.rocks/shirobako-ema-dance-ep-16/index.html</link>
             <guid isPermaLink="false">d25c9294-7556-4ae3-9cce-a875480644fa</guid>
             <pubDate>Wed, 25 May 2016 03:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rapping, deconstructed: The best rhymers of all time]]></title>
-            <description><![CDATA[<article><h1>Rapping, deconstructed: The best rhymers of all time</h1><p>Here's how some of the greatest rappers make rhymes Special thanks to the research of Martin Connor who was interviewed in this piece. More of his rap analysis can be found here: http://www.rapanalysis.com/ SPOTIFY PLAYLIST: https://open.spotify.com/user/estellecaswell/playlist/5KpHR1UysAms2zssDHeSbZ Subscribe to our channel!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce267d0cad85127d5586a1e889789d1fda7ee1ea.jpg"></article>]]></description>
-            <link>http://vfx.rocks/rapping-deconstructed-the-best-rhymers-of-all-time/index.html</link>
-            <guid isPermaLink="false">96567db9-d7b6-4cf7-8512-d50f3e358367</guid>
-            <pubDate>Wed, 25 May 2016 02:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Last Tree (Short Film)]]></title>
-            <description><![CDATA[<article><h1>The Last Tree (Short Film)</h1><p>https://vimeo.com/167766159</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e994b1e3506573aa0dfd2c18c72185468f22afd6.jpg"></article>]]></description>
-            <link>https://vimeo.com/167766159</link>
-            <guid isPermaLink="false">7af160a7-4107-4aee-a588-8bdfa86f03b1</guid>
-            <pubDate>Tue, 24 May 2016 22:10:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
