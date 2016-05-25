@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://soundcloud.com/jeff-kaale'
 inLanguage: null
 keywords: []
 description: 'enjoyable music ♫ . talk to me : jeffkaaale@gmail.com . 1998'
-datePublished: '2016-05-20T20:34:19.643Z'
-dateModified: '2016-05-20T20:34:19.287Z'
+datePublished: '2016-05-25T03:05:32.104Z'
+dateModified: '2016-05-25T02:57:08.161Z'
 author:
   - name: X I X X
     url: 'http://soundcloud.com/jeff-kaale'
@@ -59,6 +58,7 @@ publisher:
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 starred: false
+url: enjoyable-music/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
