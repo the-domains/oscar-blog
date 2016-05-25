@@ -4,8 +4,22 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 03:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 03:23:50 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><h2>TL;DR:</h2><p>Eso lo que encontraras aquí (y de vez en cuando algo de música). Hola! Soy Oscar... y esta es mi web personal, una página que comencé con el pretexto de probar TheGrid y en la que poco a poco iré subiendo contenido de los temas mencionados. Puedes seguirme en tw, g+, hipstagram, snap(muff117).</p></article>]]></description>
+            <link>http://vfx.rocks/about/index.html</link>
+            <guid isPermaLink="false">b80cb6c0-c560-4e48-906e-13bcde610edb</guid>
+            <pubDate>Wed, 25 May 2016 03:23:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Last Tree (Short Film)]]></title>
+            <description><![CDATA[<article><h1>The Last Tree (Short Film)</h1><p>https://vimeo.com/167766159</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e994b1e3506573aa0dfd2c18c72185468f22afd6.jpg"></article>]]></description>
+            <link>http://vfx.rocks/the-last-tree-short-film/index.html</link>
+            <guid isPermaLink="false">7af160a7-4107-4aee-a588-8bdfa86f03b1</guid>
+            <pubDate>Wed, 25 May 2016 03:05:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rapping, deconstructed: The best rhymers of all time]]></title>
             <description><![CDATA[<article><h1>Rapping, deconstructed: The best rhymers of all time</h1><p>Here's how some of the greatest rappers make rhymes Special thanks to the research of Martin Connor who was interviewed in this piece. More of his rap analysis can be found here: http://www.rapanalysis.com/ SPOTIFY PLAYLIST: https://open.spotify.com/user/estellecaswell/playlist/5KpHR1UysAms2zssDHeSbZ Subscribe to our channel!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce267d0cad85127d5586a1e889789d1fda7ee1ea.jpg"></article>]]></description>
@@ -33,13 +47,6 @@
             <link>http://vfx.rocks/shirobako-ema-dance-ep-16/index.html</link>
             <guid isPermaLink="false">d25c9294-7556-4ae3-9cce-a875480644fa</guid>
             <pubDate>Wed, 25 May 2016 03:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Last Tree (Short Film)]]></title>
-            <description><![CDATA[<article><h1>The Last Tree (Short Film)</h1><p>https://vimeo.com/167766159</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e994b1e3506573aa0dfd2c18c72185468f22afd6.jpg"></article>]]></description>
-            <link>https://vimeo.com/167766159</link>
-            <guid isPermaLink="false">7af160a7-4107-4aee-a588-8bdfa86f03b1</guid>
-            <pubDate>Tue, 24 May 2016 22:10:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
