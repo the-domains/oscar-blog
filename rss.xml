@@ -4,15 +4,8 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 05:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 05:06:39 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>¡Hola! Soy Oscar... y esta es mi web personal, una página que comencé con el pretexto de probar The Grid, en la que estaré subiendo contenido de esos temas + música y alguna otra cosa. </p></article>]]></description>
-            <link>http://vfx.rocks/about/index.html</link>
-            <guid isPermaLink="false">de2da547-5fbd-48b8-b0d7-62ea236aea5e</guid>
-            <pubDate>Tue, 31 May 2016 05:04:34 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Last Tree (Short Film)]]></title>
             <description><![CDATA[<article><h1>The Last Tree (Short Film)</h1><p>https://vimeo.com/167766159</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e994b1e3506573aa0dfd2c18c72185468f22afd6.jpg"></article>]]></description>
