@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: añsjdfnsfsfsfas
-datePublished: '2016-05-31T04:47:24.818Z'
-dateModified: '2016-05-31T04:42:22.397Z'
-title: ''
+description: '¡Hola! Soy Oscar... y esta es mi web personal, una página que comencé con el pretexto de probar The Grid, en la que estaré subiendo contenido de esos temas + música de vez en cuando y alguna otra cosa.'
+datePublished: '2016-05-31T04:51:39.947Z'
+dateModified: '2016-05-31T04:51:30.741Z'
+title: 'TL;DR:'
 author: []
 sourcePath: _posts/2016-05-31-ansjdfnsfsfsfas.md
 authors: []
@@ -17,25 +17,18 @@ url: ansjdfnsfsfsfas/index.html
 _type: Article
 
 ---
-añsjdfnsfsfsfas
+# TL;DR:
 
-Hola! Soy Oscar... y esta es mi web personal,
+## Vfx, video, animación, web & comics...
 
-[una página que comencé con el pretexto de probar The Grid][0]
+¡Hola! Soy Oscar... y esta es mi web personal, una página que comencé con el pretexto de probar The Grid, en la que estaré subiendo contenido de esos temas + música de vez en cuando y alguna otra cosa.
 
-, en la que estaré subiendo contenido de esos temas (+ música y alguna otra cosa). Puedes seguirme en
+Seguro también eventualmente pondré un link a mi portafolio y/o demo reel, en cuanto me decida a terminarlo, espero sea pronto.
 
-[tw][1]
+Puedes encontrarme también en:
 
-,
+_Twitter_
 
-[g+][2]
+_Instagram_
 
-,
-
-[hipstagram, snap(muff117).][3]
-
-[0]: http://vfx.rocks/webs-que-se-construyen-solas/
-[1]: https://twitter.com/muffin117
-[2]: https://plus.google.com/+OscarFuentes
-[3]: https://www.instagram.com/muffin117/
+_Snapchat_
