@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: añsjdfnsfsfsfas
-datePublished: '2016-05-31T04:35:03.308Z'
-dateModified: '2016-05-31T04:34:44.438Z'
+datePublished: '2016-05-31T04:42:21.340Z'
+dateModified: '2016-05-31T04:41:19.680Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-31-ansjdfnsfsfsfas.md
@@ -19,16 +19,23 @@ _type: Article
 ---
 añsjdfnsfsfsfas
 
-fasdfasdfasdfas
+Hola! Soy Oscar... y esta es mi web personal,
 
-dfasdfasdfasdfqiruwefqwerfq
+[una página que comencé con el pretexto de probar The Grid][0]
 
-wfwafqweferqwfibwelirfunpñasuioefnpqowuif
+, en la que estaré subiendo contenido de esos temas (+ música y alguna otra cosa). Puedes seguirme en
 
-awefwaiuefnhpqwiourhpweiufqpwioufpqwiuehfqwe
+[tw][1]
 
-fqwefiuqwehnpiuwqhnepdiquwnepqweiond´qwef
+,
 
-qwefqpiwuenfpqñwouienpoqweuifjnoq´wiefq
+[g+][2]
 
-wefqwpoeifdjnoq´weifmoqwefqw
+,
+
+[hipstagram, snap(muff117).][3]
+
+[0]: http://vfx.rocks/webs-que-se-construyen-solas/
+[1]: https://twitter.com/muffin117
+[2]: https://plus.google.com/+OscarFuentes
+[3]: https://www.instagram.com/muffin117/
