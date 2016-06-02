@@ -4,21 +4,21 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 02:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 01:54:57 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TL;DR:]]></title>
+            <description><![CDATA[<article><h1>TL;DR:</h1><p>Vfx, vídeo, animación & cómics...</p></article>]]></description>
+            <link>http://vfx.rocks/tldr/index.html</link>
+            <guid isPermaLink="false">c0a9afe9-d352-4309-86e7-e9a95ad14693</guid>
+            <pubDate>Thu, 02 Jun 2016 01:53:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Battleborn's Prologue Cartoon Is So Good]]></title>
             <description><![CDATA[<article><h1>Battleborn's Prologue Cartoon Is So Good</h1><p>La animación de introducción de Battleborn, el nuevo juego de Gearbox, está increíble, transporta un poco a Samurái Champloo en el estilo y en la música.</p></article>]]></description>
             <link>http://vfx.rocks/battleborns-prologue-cartoon-is-so-good/index.html</link>
             <guid isPermaLink="false">fda73032-51f4-4a2e-90c3-5b148fdfb1b1</guid>
             <pubDate>Wed, 01 Jun 2016 02:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TL;DR:]]></title>
-            <description><![CDATA[<article><h1>TL;DR:</h1><p>Vfx, vídeo, animación & cómics...</p></article>]]></description>
-            <link>http://vfx.rocks/tldr/index.html</link>
-            <guid isPermaLink="false">c0a9afe9-d352-4309-86e7-e9a95ad14693</guid>
-            <pubDate>Wed, 01 Jun 2016 01:57:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Last Tree (Short Film)]]></title>
