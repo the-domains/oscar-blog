@@ -4,8 +4,15 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 21:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 02:11:21 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What I'm Dancing About]]></title>
+            <description><![CDATA[<article><h1>What I'm Dancing About</h1><p>What I'm dancing about, es un film experimental con un tipo de escenas super ingeniosas, que, personalmente, nunca había visto. Colocan dos cámaras frente a frente y el personaje principal se encuentra bailando entre ellas. Hasta ahí todo normal, lo genial viene cuando comienzan a intercalar el material de ambas cámaras para lograr un efecto hipnótico que ¡SE VE INCREIBLE!,  </p></article>]]></description>
+            <link>http://vfx.rocks/what-im-dancing-about/index.html</link>
+            <guid isPermaLink="false">8884b2a8-017f-4872-a9d0-eb28ff17bdc0</guid>
+            <pubDate>Thu, 23 Jun 2016 02:11:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[E3 2016]]></title>
             <description><![CDATA[<article><h1>E3 2016</h1><p>No soy alguien que se considere taaaaan gamer pero me gustan los videojuegos, y a pesar de que muchos dicen que E3 ya no es lo que era, varias cosas se ven interesantes: RE7 con VR, God of War mostrando a Kratos con mas barba y rifandose en el hielo, el nuevo trailer de Injustice que aunque no le llega al pasado, también me gustó bastante.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://vfx.rocks/rapping-deconstructed-the-best-rhymers-of-all-time/index.html</link>
             <guid isPermaLink="false">96567db9-d7b6-4cf7-8512-d50f3e358367</guid>
             <pubDate>Wed, 25 May 2016 03:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Webs que se construyen solas.]]></title>
-            <description><![CDATA[<article><h1>Webs que se construyen solas.</h1><p>Hace poco más de un año se anunció The Grid, una inteligencia artificial capaz de construir sitios web, una inteligencia artificial que prometía dejar atrás el trabajo que implica tener que desarrollar y diseñar desde cero nuevas paginas de internet... Sin pensarlo mucho me inscribí como Founding Member para poder probar esta nueva herramienta tan pronto estuviera lista. Finalmente, hace un par de meses llego mi invitación a probar la versión beta.</p></article>]]></description>
-            <link>http://vfx.rocks/webs-que-se-construyen-solas/index.html</link>
-            <guid isPermaLink="false">68fb138d-39bf-4830-a740-f2a0f12c3e83</guid>
-            <pubDate>Wed, 25 May 2016 03:05:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
