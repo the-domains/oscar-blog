@@ -1,17 +1,23 @@
 ---
-dateModified: '2016-06-23T02:51:44.342Z'
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   Este vídeo experimental tiene un efecto que se ve genial y que no había visto
   antes. Ponen dos camaras de frente y al personaje principal en medio bailando,
   después intercalan las tomas de las dos cámaras para lograr un efecto
   hipnótico que ¡se ve increíble! Aquí dejo el link al vídeo:
-inFeed: true
+datePublished: '2016-06-23T02:57:23.241Z'
+dateModified: '2016-06-23T02:56:44.482Z'
 title: 'Ray-Ban Presents : WHAT I''M DANCING ABOUT : Ian Eastwood'
-isBasedOnUrl: 'https://vimeo.com/170824348'
 author: []
-datePublished: '2016-06-23T02:52:00.932Z'
-starred: false
 sourcePath: _posts/2016-06-23-ray-ban-presents-what-im-dancing-about-ian-eastwood.md
+authors: []
+publisher: null
+starred: false
+url: ray-ban-presents-what-im-dancing-about-ian-eastwood/index.html
 _context: 'http://schema.org'
 _type: Article
 
