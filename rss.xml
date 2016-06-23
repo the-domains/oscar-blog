@@ -4,11 +4,18 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 02:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 02:21:41 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What I'm Dancing About]]></title>
-            <description><![CDATA[<article><h1>What I'm Dancing About</h1><p>What I'm dancing about, es un film experimental con un tipo de escenas super ingeniosas, que, personalmente, nunca había visto. Colocan dos cámaras frente a frente y el personaje principal se encuentra bailando entre ellas. Hasta ahí todo normal, lo genial viene cuando comienzan a intercalar el material de ambas cámaras para lograr un efecto hipnótico que ¡SE VE INCREIBLE!,  </p></article>]]></description>
+            <description><![CDATA[<article><h1>What I'm Dancing About</h1><p>What I'm dancing about, es un film experimental con un tipo de escenas que, personalmente, nunca había visto. Colocan dos cámaras frente a frente y el personaje principal se encuentra bailando entre ellas. Hasta ahí todo normal, lo genial viene cuando comienzan a intercalar el material de ambas cámaras para lograr un efecto hipnótico muuuy ingenioso que ¡SE VE INCREIBLE! ...y que definitivamente tendré que intentar algún día.</p></article>]]></description>
+            <link>http://vfx.rocks/what-im-dancing-about/index.html</link>
+            <guid isPermaLink="false">668bf5eb-3b08-4b11-8f18-6474199eded2</guid>
+            <pubDate>Thu, 23 Jun 2016 02:21:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What I'm Dancing About]]></title>
+            <description><![CDATA[<article><h1>What I'm Dancing About</h1><p>What I'm dancing about, es un film experimental con un tipo de escenas que, personalmente, nunca había visto. Colocan dos cámaras frente a frente y el personaje principal se encuentra bailando entre ellas. Hasta ahí todo normal, lo genial viene cuando comienzan a intercalar el material de ambas cámaras para lograr un efecto hipnótico muuuy ingenioso que ¡SE VE INCREIBLE!  ...y que definitivamente tendré que intentar algún día. </p></article>]]></description>
             <link>http://vfx.rocks/what-im-dancing-about/index.html</link>
             <guid isPermaLink="false">8884b2a8-017f-4872-a9d0-eb28ff17bdc0</guid>
             <pubDate>Thu, 23 Jun 2016 02:11:11 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://vfx.rocks/the-last-tree-short-film/index.html</link>
             <guid isPermaLink="false">7af160a7-4107-4aee-a588-8bdfa86f03b1</guid>
             <pubDate>Wed, 25 May 2016 03:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rapping, deconstructed: The best rhymers of all time]]></title>
-            <description><![CDATA[<article><h1>Rapping, deconstructed: The best rhymers of all time</h1><p>Here's how some of the greatest rappers make rhymes Special thanks to the research of Martin Connor who was interviewed in this piece. More of his rap analysis can be found here: http://www.rapanalysis.com/ SPOTIFY PLAYLIST: https://open.spotify.com/user/estellecaswell/playlist/5KpHR1UysAms2zssDHeSbZ Subscribe to our channel!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce267d0cad85127d5586a1e889789d1fda7ee1ea.jpg"></article>]]></description>
-            <link>http://vfx.rocks/rapping-deconstructed-the-best-rhymers-of-all-time/index.html</link>
-            <guid isPermaLink="false">96567db9-d7b6-4cf7-8512-d50f3e358367</guid>
-            <pubDate>Wed, 25 May 2016 03:05:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
