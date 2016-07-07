@@ -9,8 +9,8 @@ description: >-
   antes. Ponen dos camaras de frente y al personaje principal en medio bailando,
   después intercalan las tomas de las dos cámaras para lograr un efecto
   hipnótico que ¡se ve increíble! Aquí dejo el link al vídeo:
-datePublished: '2016-06-23T02:57:23.241Z'
-dateModified: '2016-06-23T02:56:44.482Z'
+datePublished: '2016-07-07T03:48:47.384Z'
+dateModified: '2016-06-23T02:57:27.113Z'
 title: 'Ray-Ban Presents : WHAT I''M DANCING ABOUT : Ian Eastwood'
 author: []
 sourcePath: _posts/2016-06-23-ray-ban-presents-what-im-dancing-about-ian-eastwood.md
