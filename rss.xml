@@ -4,8 +4,22 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 03:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 04:36:05 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is it everything you thought of in your head]]></title>
+            <description><![CDATA[<article><h1>Is it everything you thought of in your head</h1><p>El último video de Clipping, "Wrriggle", está lleno de internet y como bien lo dice uno de los comentarios con mas pulgares arriba del video:</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3477365d52e3b462a83432bff6123f24/croprotate.png?cropheight=672&cropwidth=1273&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa5b32d2b-7031-46e7-a751-1d3f9d61855f.png&x=0&y=0"></article>]]></description>
+            <link>http://vfx.rocks/is-it-everything-you-thought-of-in-your-head/index.html</link>
+            <guid isPermaLink="false">f91f7011-d609-481e-94a8-5261b008e7f7</guid>
+            <pubDate>Fri, 08 Jul 2016 04:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man Kind has reached the last step of it's evolution.]]></title>
+            <description><![CDATA[<article><h1>Man Kind has reached the last step of it's evolution.</h1><p>https://vimeo.com/172933813</p></article>]]></description>
+            <link>http://vfx.rocks/man-kind-has-reached-the-last-step-of-its-evolution/index.html</link>
+            <guid isPermaLink="false">94a48d4f-2e80-4301-98b5-1573e4434ac1</guid>
+            <pubDate>Thu, 07 Jul 2016 03:49:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[E3 2016]]></title>
             <description><![CDATA[<article><h1>E3 2016</h1><p>No soy alguien que se considere taaaaan gamer pero me gustan los videojuegos, y a pesar de que muchos dicen que E3 ya no es lo que era, varias cosas se ven interesantes: RE7 con VR, God of War mostrando a Kratos con mas barba y rifandose en el hielo, el nuevo trailer de Injustice que aunque no le llega al pasado, también me gustó bastante.</p></article>]]></description>
@@ -19,13 +33,6 @@
             <link>http://vfx.rocks/ray-ban-presents-what-im-dancing-about-ian-eastwood/index.html</link>
             <guid isPermaLink="false">7e7c2d97-8e0f-4ebc-93b9-81fa2cf30193</guid>
             <pubDate>Thu, 07 Jul 2016 03:48:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man Kind has reached the last step of it's evolution.]]></title>
-            <description><![CDATA[<article><h1>Man Kind has reached the last step of it's evolution.</h1><p>https://vimeo.com/172933813</p></article>]]></description>
-            <link>http://vfx.rocks/man-kind-has-reached-the-last-step-of-its-evolution/index.html</link>
-            <guid isPermaLink="false">94a48d4f-2e80-4301-98b5-1573e4434ac1</guid>
-            <pubDate>Thu, 07 Jul 2016 03:48:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HIT TV // The Prologue]]></title>
@@ -68,13 +75,6 @@
             <link>http://vfx.rocks/battleborns-prologue-cartoon-is-so-good/index.html</link>
             <guid isPermaLink="false">fda73032-51f4-4a2e-90c3-5b148fdfb1b1</guid>
             <pubDate>Wed, 01 Jun 2016 02:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Last Tree (Short Film)]]></title>
-            <description><![CDATA[<article><h1>The Last Tree (Short Film)</h1><p>https://vimeo.com/167766159</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e994b1e3506573aa0dfd2c18c72185468f22afd6.jpg"></article>]]></description>
-            <link>http://vfx.rocks/the-last-tree-short-film/index.html</link>
-            <guid isPermaLink="false">7af160a7-4107-4aee-a588-8bdfa86f03b1</guid>
-            <pubDate>Wed, 25 May 2016 03:05:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
