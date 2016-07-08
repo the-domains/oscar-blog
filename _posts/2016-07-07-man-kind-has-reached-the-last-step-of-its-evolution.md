@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://vimeo.com/172933813'
-datePublished: '2016-07-07T03:49:03.881Z'
-dateModified: '2016-07-07T03:48:42.220Z'
+datePublished: '2016-07-08T04:56:55.756Z'
+dateModified: '2016-07-08T04:42:34.631Z'
 title: Man Kind has reached the last step of it's evolution.
 author: []
 sourcePath: _posts/2016-07-07-man-kind-has-reached-the-last-step-of-its-evolution.md
