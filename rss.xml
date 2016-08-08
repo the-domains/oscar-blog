@@ -4,8 +4,15 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 04:56:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 00:05:24 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TL;DR:]]></title>
+            <description><![CDATA[<article><h1>TL;DR:</h1><p>Vfx, vídeo, animación & cómics...</p></article>]]></description>
+            <link>http://vfx.rocks/tldr/index.html</link>
+            <guid isPermaLink="false">c0a9afe9-d352-4309-86e7-e9a95ad14693</guid>
+            <pubDate>Mon, 08 Aug 2016 00:05:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Man Kind has reached the last step of it's evolution.]]></title>
             <description><![CDATA[<article><h1>Man Kind has reached the last step of it's evolution.</h1><p>https://vimeo.com/172933813</p></article>]]></description>
@@ -61,13 +68,6 @@
             <link>http://abduzeedo.com/tokyo-nights-different-world</link>
             <guid isPermaLink="false">89be377b-3a30-4536-98bb-08b1ca80f567</guid>
             <pubDate>Thu, 02 Jun 2016 02:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TL;DR:]]></title>
-            <description><![CDATA[<article><h1>TL;DR:</h1><p>Vfx, vídeo, animación & cómics...</p></article>]]></description>
-            <link>http://vfx.rocks/tldr/index.html</link>
-            <guid isPermaLink="false">c0a9afe9-d352-4309-86e7-e9a95ad14693</guid>
-            <pubDate>Thu, 02 Jun 2016 01:53:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Battleborn's Prologue Cartoon Is So Good]]></title>
