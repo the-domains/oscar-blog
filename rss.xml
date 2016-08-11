@@ -4,8 +4,15 @@
         <description><![CDATA[Oscar FR Log]]></description>
         <link>http://vfx.rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 00:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 19:49:14 GMT</lastBuildDate>
         <atom:link href="http://vfx.rocks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trailer]]></title>
+            <description><![CDATA[<article><h1>Trailer</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/434338b1a06fa90410127e8f5aeb1cd0/noop?input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F53ffb187e4b0a79fcdf08ba1%2Ft%2F54b06c5be4b096ab49878459%2F1470877419924%2F%3Fformat%3D1000w"></article>]]></description>
+            <link>http://www.graphicmeans.com/</link>
+            <guid isPermaLink="false">cbbc10de-72b6-4832-ae61-4c6520154aab</guid>
+            <pubDate>Thu, 11 Aug 2016 19:49:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TL;DR:]]></title>
             <description><![CDATA[<article><h1>TL;DR:</h1><p>Vfx, vídeo, animación & cómics...</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://abduzeedo.com/tokyo-nights-different-world</link>
             <guid isPermaLink="false">89be377b-3a30-4536-98bb-08b1ca80f567</guid>
             <pubDate>Thu, 02 Jun 2016 02:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Battleborn's Prologue Cartoon Is So Good]]></title>
-            <description><![CDATA[<article><h1>Battleborn's Prologue Cartoon Is So Good</h1><p>La animación de introducción de Battleborn, el nuevo juego de Gearbox, está increíble, transporta un poco a Samurái Champloo en el estilo y en la música.</p></article>]]></description>
-            <link>http://vfx.rocks/battleborns-prologue-cartoon-is-so-good/index.html</link>
-            <guid isPermaLink="false">fda73032-51f4-4a2e-90c3-5b148fdfb1b1</guid>
-            <pubDate>Wed, 01 Jun 2016 02:40:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
