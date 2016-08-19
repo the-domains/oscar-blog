@@ -4,15 +4,17 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "El último video de Clipping, \"Wrriggle\",\_está lleno de internet y como bien lo dice uno de los comentarios con mas pulgares arriba del video:"
-datePublished: '2016-07-08T04:36:01.841Z'
-dateModified: '2016-07-08T04:35:49.425Z'
+description: >-
+  El último video de Clipping, "Wrriggle", está lleno de internet y como bien lo
+  dice uno de los comentarios con mas pulgares arriba del video:
+datePublished: '2016-08-19T18:24:07.532Z'
+dateModified: '2016-07-08T04:36:11.042Z'
 title: Is it everything you thought of in your head
 author: []
+sourcePath: _posts/2016-07-08-is-it-everything-you-thought-of-in-your-head.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-08-is-it-everything-you-thought-of-in-your-head.md
 url: is-it-everything-you-thought-of-in-your-head/index.html
 _type: Article
 
