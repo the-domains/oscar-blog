@@ -19,11 +19,12 @@ analytics:
   google: UA-42516166-4
   facebook: null
   twitter: null
-name: Oscar FR Log
+name: Oscar Log
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
 title: Log
+description: Oscar F web
 purpose: []
