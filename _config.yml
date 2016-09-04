@@ -19,6 +19,10 @@ analytics:
   google: UA-42516166-4
   facebook: null
   twitter: null
+author:
+  name: Oscar F
+  email: oscar@vfx.rocks
+  url: vfx.rocks
 name: Oscar Log
 cta:
   domain: null
