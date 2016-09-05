@@ -12,7 +12,7 @@ color:
   rhythmicContrast: 0.75
 opengraph:
   image: null
-  type: null
+  type: website
   appId: null
 layout_spectrum: 1
 analytics:
@@ -28,7 +28,8 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7704b5ba-30fa-4f19-9f04-1f9eb2dfa2a2.ico
 title: Log
 description: Oscar F
 purpose: []
