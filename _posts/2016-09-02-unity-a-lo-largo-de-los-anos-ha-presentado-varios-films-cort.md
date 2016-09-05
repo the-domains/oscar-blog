@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-02T02:51:04.802Z'
+datePublished: '2016-09-02T04:38:36.188Z'
 sourcePath: >-
   _posts/2016-09-02-unity-a-lo-largo-de-los-anos-ha-presentado-varios-films-cort.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T02:51:03.182Z'
+dateModified: '2016-09-02T04:38:35.493Z'
 title: 'Adam, Making of'
 publisher: {}
 description: >-
@@ -24,15 +24,27 @@ _type: Article
 
 En Junio de este año presentaron Adam, un film renderizado en tiempo real, construido con la versión beta de Unity 5.4 y su nueva herramienta cinematic sequencer tool.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9UEFOwzAQ_IrlAzfqlEgVausiuCB-wK1ynA22tM6a9abGvycqEbeZ0Wg0M-c4sUugPLpSrG60yDLAY0bXgLWSlsFqgR8xQRJqVeMowepD12kVIH4Fsbo_PGtV2FsdRPLRmFrrbkvaeUoG0gCjef_86LBv32_8-nIDLpFm2z-4lE8MaPd3NJUNuEUoxBHs052WQLWAYx9s9y_EeaLNHm9XJDdeM2H0bRNrojVA2M0lO4ZZtHKIVKcFsXgGmNdpvMBaXhquOwfiEfjYnfTlbP6OufwCR7VmHA" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FGXI0l3yqBrA%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGXI0l3yqBrA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGXI0l3yqBrA%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-> El equipo experimentó con lo que llaman [real-time area lights][2] y usaron CaronteFX, un asset de Unity para simular física. 
+> El equipo experimentó con lo que llaman [real-time area lights][2] y usaron CaronteFX, un asset de Unity para simular física.
 
 Ademas de esto, el equipo desarrolló otras herramientas personalizadas encima de Unity.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9UEFqAzEQ-4qZQ2-Nt00IJYlTeisUesgHgtc7GxtsjxnPxt3fd0mX3iQhhKRTGNkmVC7aWg3MNMnU43OJdkYGJXNBA4I_or2kCKqFQbyBfdeB8hhuXgxs92-gKjsDXqQctG6tbdakjaOkMfU46O5z57--y-Xjsnu_I9dA2WyfbCpHxmheHmisK7CTkA8DmtcHrZ5aRcvOm-5fCHmk1R7u10h2uBaKwc2r2BItAcI212IZs4CyMVIbpxirY8S8TOMJl_Iyx2VnTzwgH7ojnE_675jzLwW9Zbw" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0H4hKNpRAR4%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0H4hKNpRAR4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0H4hKNpRAR4%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-Aquí dejamos un par de links donde se habla más sobre el desarrollo de Adam e incluyen increíbles imágenes del arte conceptual: 
+[Unity][0] a lo largo de los años ha presentado [varios films cortos][1] desarrollados con su engine para mostrar de lo que es capaz su tecnología.
+
+En Junio de este año presentaron Adam, un film renderizado en tiempo real, construido con la versión beta de Unity 5.4 y su nueva herramienta cinematic sequencer tool.
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FGXI0l3yqBrA%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGXI0l3yqBrA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGXI0l3yqBrA%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+> El equipo experimentó con lo que llaman [real-time area lights][2] y usaron CaronteFX, un asset de Unity para simular física.
+
+Ademas de esto, el equipo desarrolló otras herramientas personalizadas encima de Unity.
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0H4hKNpRAR4%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0H4hKNpRAR4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0H4hKNpRAR4%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+Aquí dejamos un par de links donde se habla más sobre el desarrollo de Adam e incluyen increíbles imágenes del arte conceptual:
 
 [ADAM -- PRODUCTION DESIGN FOR THE REAL-TIME SHORT FILM][3]
 
